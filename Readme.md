@@ -38,4 +38,10 @@
   - 圖片尺寸：512x512
   - 推理步驟：60
   - 引導比例：7.5
+ 
+### 3. 範例照片
+**dog + deer**
+- <img src="https://github.com/user-attachments/assets/fbefcc8a-8990-4a9b-b74e-701381b7db35" alt="dog+deer" width="400"/>
 
+**turtle + shark**
+- <img src="https://github.com/user-attachments/assets/7ab19be2-e695-492d-84ba-2359eea8b836" alt="turtle+shark" width="400"/>
